@@ -28,6 +28,9 @@ function App() {
             <img src="/github.png" /></a>
           <a href='https://www.linkedin.com/in/nolann-dubos-9319a4297/' target='_blank'>
             <img src="/linkedin.png" /></a>
+          <a href='/CV-NOLANN-DUBOS.pdf' target='_blank'>
+            <img src="/cv.png" style={{
+            }} /></a>
         </div>
         <div style={{
           marginTop: '17rem',
